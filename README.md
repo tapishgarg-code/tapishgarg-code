@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding , Problem Solving ,Web Development.
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me Email Me-thetapishgarg@gmail.com
+- 📫 How to reach me Email -thetapishgarg@gmail.com
 
 <!---
 tapishgarg-code/tapishgarg-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
